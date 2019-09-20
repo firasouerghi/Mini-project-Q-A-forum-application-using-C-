@@ -1,7 +1,11 @@
 # Mini-project-Q-A-forum-application-using-C-
 Mini-project : Q&amp;A forum application using C++
 
+https://www.youtube.com/watch?v=OO_fTUOxMO0&t=98s
 
+
+
+![](img/Diagramme%20des%20classes.png
 
 -----------------------------------
 TUT BY : Ouerghi Firas
